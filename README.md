@@ -11,6 +11,7 @@ This project demonstrates a basic data ingestion, cleaning, transformation, and 
 
 - `weather_data.csv` — Original raw weather data CSV file.  
 - `HiwotTadesse.py` — Python script containing the data processing code.
+- `Hiwot.ipynb` - Python notebook for visualising every line of code.
 - `outputs/` — Folder to store output files including cleaned CSV and reports.  
 - `tranformed_weather_data.csv` - Output clean data
 ---
